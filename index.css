@@ -1,0 +1,37 @@
+img {
+  border: 3px solid rebeccapurple;
+}
+
+.my_link {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: antiquewhite;
+}
+
+header {
+  height: 40px;
+  background-color: cadetblue;
+  color: white;
+}
+
+.my_footer {
+  height: 50px;
+  background-color: chocolate;
+  color: white;
+}
+
+.my_footer p {
+  font-size: 30px;
+}
+
+.wrapper {
+  background-color: blueviolet;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
